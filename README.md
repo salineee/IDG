@@ -38,6 +38,7 @@ Compile `Editor2D` using make`.
 
 ## TODO
 ### <i>... ever changing. never complete, never concise, never definitive.</i>
+- Compile as a library for easier use in other projects
 - Draft util documentation
 - Draft useage documentation
 - Linux support

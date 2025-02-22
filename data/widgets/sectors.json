@@ -1,0 +1,60 @@
+[
+    {
+        "type"       : "WT_SELECT",
+        "name"       : "material",
+        "group_name" : "sectors",
+        "x"          : 16,
+        "y"          : 100,
+        "label"      : "Material",
+        "options"    : [
+            "None",
+            "Wood",
+            "Stone",
+            "Brick"
+        ] 
+    },
+    {
+        "type"       : "WT_SELECT",
+        "name"       : "interactive",
+        "group_name" : "sectors",
+        "x"          : 16,
+        "y"          : 150,
+        "label"      : "Interactive",
+        "options"    : [
+            "FALSE",
+            "TRUE"
+        ]
+    },
+    {
+        "type"       : "WT_SELECT",
+        "name"       : "solid",
+        "group_name" : "sectors",
+        "x"          : 16,
+        "y"          : 200,
+        "label"      : "Solid",
+        "options"    : [
+            "FALSE",
+            "TRUE"
+        ]
+    },
+    {
+        "type"       : "WT_SELECT",
+        "name"       : "blocks_los",
+        "group_name" : "sectors",
+        "x"          : 16,
+        "y"          : 250,
+        "label"      : "Blocks LOS",
+        "options"    : [
+            "FALSE",
+            "TRUE"
+        ]
+    },
+    {
+        "type"       : "WT_BUTTON",
+        "name"       : "delete",
+        "group_name" : "sectors",
+        "x"          : 16,
+        "y"          : 300,
+        "label"      : "Delete Sector"
+    }
+]
